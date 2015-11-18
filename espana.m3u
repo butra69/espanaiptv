@@ -1,6 +1,4 @@
-
-
-#EXTM3U $ExtFilter="RTMP"
+#EXTM3U
 #EXTINF:-1,[COLOR blue][I][B]--- 11-11-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --REDENEOBUX.COM 11-11-2015--[/COLOR]
 
@@ -1458,6 +1456,3 @@ rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
 rtsp://flash3.todostreaming.es/radiovida/mobile
 #EXTINF:-1,Alfa TV
 rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
-
-#EXTINF:-1,Stream 1
-rtmp://$OPT:rtmp-raw=rtmp://37.130.226.172/live playpath=telecincorincon?id=83007&pk=35746093aa0b117fc9cd6b1420dcbb32fd9b0b2123f647ea8426bbd12c6e7f80 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/telecincorincon/1/650/400
